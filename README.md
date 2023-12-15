@@ -1,4 +1,4 @@
-# Klasifikasi_Kertas_Batu_Gunting
+# Klasifikasi Kertas Batu Gunting
 Klasifikasi gambar kertas, batu, gungting dengan CNN
 Pengembangan model untuk klasifikasi gambar kertas, batu, gunting dengan Convolutional Neural Network (CNN) adalah langkah menuju kecerdasan buatan yang memahami visual. Dengan menggunakan teknologi ini, kita dapat mengajari komputer untuk mengenali perbedaan antara gambar-gambar tersebut. 
 
